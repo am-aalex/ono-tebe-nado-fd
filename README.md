@@ -1,1 +1,1 @@
-https://github.com/am-aalex/ono-tebe-nado
+https://github.com/am-aalex/ono-tebe-nado-fd
