@@ -7,7 +7,7 @@
 }
 
 .header__menu {
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-weight: 400;
   font-size: 18px;
   line-height: 100%;
@@ -40,7 +40,7 @@
 }
 
 .address {
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-weight: 400;
   font-size: 18px;
   max-width: 235px;
@@ -70,7 +70,7 @@
 }
 
 .description_texst {
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-weight: 700;
   font-size: 100px;
   line-height: 114px;
@@ -130,7 +130,7 @@
 
 .cover__description-text {
   color: white;
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-weight: 400;
   font-size: 22px;
   line-height: 28px;
@@ -143,7 +143,7 @@
   justify-items: center;
   align-items: center;
   color: white;
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-weight: 400;
   font-size: 22px;
   line-height: 28px;
@@ -171,7 +171,7 @@
 }
 
 .lots__card-list {
-  list-style: none;
+  list-style: Raleway, sans-serif;
   display: flex;
   gap: 25px;
   padding-top: 7px;
@@ -233,7 +233,7 @@
 }
 
 .card__title {
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-weight: 700;
   font-size: 22px;
   line-height: 120%;
@@ -246,7 +246,7 @@
 }
 
 .card__text {
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-weight: 400;
   font-size: 20px;
   line-height: 120%;
@@ -256,7 +256,7 @@
 
 .lots__look-more-link {
   display: inline-block;
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-weight: 400;
   font-size: 20px;
   line-height: 100%;
@@ -314,7 +314,7 @@
 }
 
 .about__text_box {
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-weight: 400;
   font-size: 20px;
   line-height: 24px;
@@ -334,7 +334,7 @@
 }
 
 .footer_address_text {
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-weight: 400;
   font-size: 18px;
   line-height: 24.3px;
@@ -355,7 +355,7 @@
 }
 
 .footer__menu-list-item {
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-weight: 400;
   font-size: 18px;
   line-height: 100%;
