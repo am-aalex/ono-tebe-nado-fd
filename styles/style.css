@@ -50,13 +50,10 @@
 }
 
 .header__address {
-  padding-top: 4px;
-}
-
-.header__address {
   margin-left: 132px;
   padding-bottom: 5px;
   line-height: 24px;
+    padding-top: 4px;
 }
 
 .overlay {
@@ -204,15 +201,6 @@
 
 .card_type_film {
   background-image: url("../images/card-lot-01.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-
-.card_type_book {
-  position: relative;
-  width: 100%;
-  background-image: url("../images/card-lot-02.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
